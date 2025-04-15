@@ -1,6 +1,6 @@
 # UCI-Forest-fires
 
-This is a difficult regression task, where the aim is to predict the burned area of forest fires, in the northeast region of Portugal, by using meteorological and other data. This data set is sourced from the UCI Machine Learning Repository.
+This is a difficult regression task, The data is related to forest fires where the aim is to predict the burned area of forest fires, in the northeast region of Portugal, by using meteorological and other data. This data set is sourced from the UCI Machine Learning Repository.
 
 
 Attribute information:
